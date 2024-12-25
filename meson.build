@@ -4,3 +4,4 @@ project('learn-cpp-the-hard-way', 'cpp',
 executable('ex02', 'ex02.cpp')
 executable('ex05', 'ex05.cpp')
 executable('ex06', 'ex06.cpp')
+executable('ex07', 'ex07.cpp')
